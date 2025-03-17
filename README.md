@@ -1,4 +1,4 @@
-# Competitive Programming Practice
+# Competitive Programming Practice on Codeforces
 
 Welcome to my Competitive Programming repository! 🚀
 
